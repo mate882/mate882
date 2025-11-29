@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Mate
 
-<!--
-**mate882/mate882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner developer focused on learning programming and building small projects.  
+I’m actively learning **C#** and already know **Python**. I do frontend freelancing work with **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+### 🌱 What I’m working on
+- Practicing **C# (OOP & projects)**  
+- Building small frontend projects for practice and freelancing  
+- Improving problem solving and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Tech I Use
+- **Frontend:** HTML, CSS, JavaScript  
+- **Languages:** Python, C# (learning)  
+- **Tools:** VS Code, Git & GitHub
+
+### 🗣 Languages I Speak
+- Georgian (native)  
+- Russian  
+- English  
+- Learning Spanish
+
+### 📫 How to reach me
+- Email: matthew.anderson.tech1@gmail.com
+- GitHub: github.com/mate882
+
+---
+
