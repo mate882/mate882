@@ -19,9 +19,5 @@ I’m actively learning **C#** and already know **Python**. I do frontend freela
 - English  
 - Learning Spanish
 
-### 📫 How to reach me
-- Email: matthew.anderson.tech1@gmail.com
-- GitHub: github.com/mate882
-
 ---
 
