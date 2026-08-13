@@ -1,91 +1,70 @@
-# Matthew
+# Hi, I'm Mate Asanidze
 
-Frontend Developer | Systems Programming Enthusiast | Polyglot
+I'm a developer focused on building modern web experiences and exploring the intersection of software development and artificial intelligence.
 
----
+My current work combines **frontend development, interactive web design, GSAP animations, and AI-powered web features**. Alongside my web development work, I'm expanding my knowledge of Python, artificial intelligence, machine learning, mathematics, data structures, and algorithms.
 
-## About Me
+## What I Build
 
-I'm a Georgian frontend developer with a passion for building elegant web experiences and a long-term career focused on systems programming—OS development, compilers, and low-level systems. Currently freelancing while preparing for national exams and planning a Computer Science degree.
+- **Responsive Websites** — modern interfaces designed for desktop, tablet, and mobile.
+- **Interactive Web Experiences** — smooth animations and interactions using GSAP.
+- **AI-Powered Websites** — integrating AI functionality into web applications.
+- **Website Chatbots** — custom AI chatbots designed around websites, products, businesses, or services.
+- **Software Projects** — Python and JavaScript projects focused on improving my understanding of software engineering and AI.
 
-**What I'm about:**
-- 🎨 **Frontend craft**: Clean, performant web interfaces with modern CSS and JavaScript
-- 🔧 **Building projects**: Learning by doing—shipping real work over tutorials
-- 🌍 **Polyglot**: Georgian(Native), Russian (fluent), English (C1+), French (in progress), pursuing all 6 UN official languages
-- 📚 **Goal-oriented**: Managing simultaneous ambitions in programming, language learning, and fitness
----
+## Technologies
 
-## Freelance Work
+### Web Development
 
-### Ressonate
-**AI-Powered HR Cost Calculator** (JavaScript, HTML/CSS)
-- Dynamic cost estimation system with real-time calculations
-- Premium UI: navy and accent blue palette, Syne/DM Sans typography
-- Smooth GSAP animations and interactive feedback
--  
-**Tech Stack**: HTML5, CSS3 (Grid/Flexbox, animations), GSAP, JavaScript
+- HTML
+- CSS
+- JavaScript
+- GSAP
+- Tailwind CSS
+- Bootstrap
 
----
+### Programming & AI
 
-## Programming Projects
+- Python
+- NumPy
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
 
-### TradingAi (Paused until post-exam)
+### Tools
 
-### Chess AI (Planned)
-Five-phase learning progression:
-1. `python-chess` + Pygame engine
-2. Minimax algorithm
-3. Alpha-Beta pruning
-4. Transposition tables & opening books
-5. Optional PyTorch neural network
+- Git
+- GitHub
+- VS Code
 
----
+## Currently Learning
 
-## Current Focus (August 2026)
+I'm currently going deeper into **Python and artificial intelligence**, with a focus on understanding how AI systems work rather than only using high-level APIs.
 
-**National Exams**: Top priority. Preparing for Georgian National Exam to unlock university entry.
+Some of the areas I'm studying and experimenting with include:
 
-**Language Learning**: ~1.5 hours daily
-- French: A2–B1 target by university (Duolingo, YouTube, Practice Makes Perfect books)
-- Arabic: Light Modern Standard Arabic script study (15–20 min/evening)
-- Goal: All 6 UN official languages (Russian ✓, English near-native, French next)
+- Neural networks
+- Gradient descent
+- Machine learning fundamentals
+- Linear algebra
+- Mathematics for AI
+- Data structures
+- Algorithms
 
-**Training & Wellness**: Disciplined bodyweight program anchored by daily mountain walks and fasting schedule
+I document these projects as I develop them and use them to build a stronger understanding of the underlying concepts.
 
----
+## Featured Projects
 
-## Skills
+### Web Development
+Projects demonstrating responsive design, frontend development, GSAP animation, and interactive user experiences.
 
-**Languages**: JavaScript, HTML/CSS, Python, (C—in progress)
+### AI & Python
+Experiments and projects exploring neural networks, machine learning, Python, and AI development.
 
-**Frontend**: GSAP, ScrollTrigger, responsive design, CSS Grid/Flexbox, component architecture
+## My Approach
 
-**Data/ML**: Python, scikit-learn, Random Forest, TimeSeriesSplit, HuggingFace, BERT sentiment analysis
+I prefer learning by building.
 
-**Tools**: Git, API integration (Alpaca), backtesting frameworks
+Instead of only following tutorials, I try to understand the underlying concepts, implement them myself, test them, find where they fail, and improve them.
 
-**Human Languages**: Georgian (native), Russian (fluent), English (B2+, IELTS 8.0 listening), French (A1–A2, in progress)
-
----
-
-## Beyond Code
-
-- **Reading**: The Economist, technical essays (B2+ comprehension level)
-- **Exercise**: Daily 4–5km mountain walks; home bodyweight training with specific physique goals
-- **Learning style**: Project-based, comfortable with struggle before solutions, prefers direct answers
-
----
-
-## What's Next
-
-- ✅ Pass national exams (August 2026)
-- 🎓 Begin Computer Science university program (~7 months out)
-- 🔄 Restart TradingAi with live trading on Linux/MetaTrader 5
-- 📖 Reach B1 French fluency; continue UN language progression
-- 🔧 Dive deeper into systems programming—compilers, low-level optimization
-
----
-
-**Find me**: [GitHub](https://github.com/mate882) | Tbilisi, Georgia
-
-*"The best way to predict the future is to build it."*
+This GitHub profile is a record of that process — from smaller experiments to increasingly complex projects.
