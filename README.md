@@ -1,70 +1,73 @@
-# Hi, I'm Mate Asanidze
+Mate Asanidze — Full-Stack Developer
 
-I'm a developer focused on building modern web experiences and exploring the intersection of software development and artificial intelligence.
+I build complete web applications, backend systems, and Python tools. I work across the entire stack — Python/Django backends, REST APIs, databases, and interactive frontends — rather than specializing in just one layer.
 
-My current work combines **frontend development, interactive web design, GSAP animations, and AI-powered web features**. Alongside my web development work, I'm expanding my knowledge of Python, artificial intelligence, machine learning, mathematics, data structures, and algorithms.
+My approach is always the same: understand the problem deeply, build from first principles, test rigorously, ship working code.
 
-## What I Build
+What I Build
 
-- **Responsive Websites** — modern interfaces designed for desktop, tablet, and mobile.
-- **Interactive Web Experiences** — smooth animations and interactions using GSAP.
-- **AI-Powered Websites** — integrating AI functionality into web applications.
-- **Website Chatbots** — custom AI chatbots designed around websites, products, businesses, or services.
-- **Software Projects** — Python and JavaScript projects focused on improving my understanding of software engineering and AI.
+Backend & Python
 
-## Technologies
+- Django REST APIs and web applications
+- Python automation tools and scripts
+- Database-driven systems
+- Custom Python utilities for data processing and specific problems
 
-### Web Development
+Frontend
 
-- HTML
+- Responsive, interactive web interfaces
+- JavaScript and React applications
+- Motion design with GSAP animations
+- AI-powered web features (chatbots, integrations, custom AI functionality)
+
+Full-Stack Projects
+
+- Complete web applications from database to frontend
+- Integrated systems combining backend logic with interactive interfaces
+- Production-ready code focused on performance and maintainability
+- Core Technologies
+
+Python (primary)
+
+- Django & REST APIs
+- NumPy, data processing
+- Neural networks & machine learning
+- Custom automation
+
+Frontend
+
+- JavaScript, React, HTML, CSS
+- GSAP animations
 - CSS
-- JavaScript
-- GSAP
-- Tailwind CSS
-- Bootstrap
 
-### Programming & AI
+Systems & Tools
 
-- Python
-- NumPy
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
+- PostgreSQL, SQL
+- Git, GitHub
+- Linux, VS Code
+- Docker (learning)
+  
+Current Work
 
-### Tools
+I'm focused on deep understanding over surface-level frameworks. I don't just use tools — I implement systems from scratch to understand how they work. Recently, I built a neural network from the ground up (neurons, backpropagation, gradient descent, feature normalization) without ML frameworks, because understanding the fundamentals matters.
 
-- Git
-- GitHub
-- VS Code
+Currently building:
 
-## Currently Learning
+Full-stack web applications for clients
+Python backend systems
+Deep dives into machine learning and algorithms
 
-I'm currently going deeper into **Python and artificial intelligence**, with a focus on understanding how AI systems work rather than only using high-level APIs.
+Why This Approach
 
-Some of the areas I'm studying and experimenting with include:
+I'm self-taught and project-first. I learn by building real things — not tutorials, not course completion, but actual working systems. Every project teaches me something about how software actually works.
 
-- Neural networks
-- Gradient descent
-- Machine learning fundamentals
-- Linear algebra
-- Mathematics for AI
-- Data structures
-- Algorithms
+My goal: build systems that matter and develop toward financial independence through quality software rather than traditional employment.
 
-I document these projects as I develop them and use them to build a stronger understanding of the underlying concepts.
+Let's Work
 
-## Featured Projects
+I'm available for:
 
-### Web Development
-Projects demonstrating responsive design, frontend development, GSAP animation, and interactive user experiences.
-
-### AI & Python
-Experiments and projects exploring neural networks, machine learning, Python, and AI development.
-
-## My Approach
-
-I prefer learning by building.
-
-Instead of only following tutorials, I try to understand the underlying concepts, implement them myself, test them, find where they fail, and improve them.
-
-This GitHub profile is a record of that process — from smaller experiments to increasingly complex projects.
+Freelance & contract full-stack development
+Python backend projects
+Web application development
+Custom automation and tools
